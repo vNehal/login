@@ -25,7 +25,7 @@ export const LoginSignup = () => {
       }).then(
         (res)=>{
           if(res.status===200){
-            window.location.href='/agrospace'
+            window.location.href='/agrospace-home'
           }
           else{
             window.location.href='/login'
