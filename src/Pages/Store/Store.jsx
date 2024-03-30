@@ -1,10 +1,10 @@
 import React from 'react'
 import './Store.css'
-import Banner from '../../Components/Banner/Banner'
+import Banner from '../../components/Banner/Banner'
 
-import UserChoice from '../../Components/UserChoice/UserChoice'
-import Footer from '../../Components/Footer/Footer'
-import Navbar from '../../Components/Navbar1/Navbar1'
+import UserChoice from '../../components/UserChoice/UserChoice'
+import Footer from '../../components/Footer/Footer'
+import Navbar from '../../components/Navbar/Navbar'
 
 
 const Store = () => {
